@@ -65,6 +65,6 @@ _______________________________________________________________
 -Blinn Phong illumination is used in main.html.
 
 ##Desclamer
-**** objects.js was given to us as template code and I have not modified it
-**** Parts of main.js were given to us and I have done my best to comment out which code is mine and which is not. 
-**** Main.html was given to us to be modified. Within main.html I have rewritten phong illumination to blinn phong, and added my own vertext and fragment shaders that I wrote from scratch. I also converted the ADS shader from vertex to fragment shader.
+- objects.js was given to us as template code and I have not modified it
+- Parts of main.js were given to us and I have done my best to comment out which code is mine and which is not. 
+- Main.html was given to us to be modified. Within main.html I have rewritten phong illumination to blinn phong, and added my own vertext and fragment shaders that I wrote from scratch. I also converted the ADS shader from vertex to fragment shader.
