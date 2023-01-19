@@ -1,12 +1,12 @@
 # CSC-305-Assignment~2
 
-###A simple animation written in JavaScript/WebGL and GLSL
+### A simple animation written in JavaScript/WebGL and GLSL
 
-##Task
+## Task
 
 Create an animation with full creative freedom fullfiling the particular requirements defined under "criteria".
 
-##Criteria
+## Criteria
 
 - At least one two hierarchial object
 - Containing at least two textures either procedural or mapped
@@ -15,7 +15,7 @@ Create an animation with full creative freedom fullfiling the particular require
 - Connection to real - time
 - Display the frame rate in the console every 2 seconds
 
-##Summary
+## Summary
 
 
 I have decided to play around with color and scale to create a fantastical animation with a humorous twist. The scene starts off in black and white displaying a character with a formal hat looking into a cone with its mouth moving in disbeleif. The camera rotates around the character while parametrically zooming in until it comes to a halt in front of the contents of the cone. I have used various effects to comprise an outlandish scene within the cone:
@@ -58,13 +58,13 @@ The small character giving the big character a colorful "black eye":
 
 _______________________________________________________________
 
-##Functionality
+## Functionality
 -I focused on object oriented programming in order to reuse my characters and objects.
 -The whole scene is rendered in render(timestamp) in main.js.
 -Shader effects are done in main.html
 -Blinn Phong illumination is used in main.html.
 
-##Desclamer
+## Desclamer
 - objects.js was given to us as template code and I have not modified it
 - Parts of main.js were given to us and I have done my best to comment out which code is mine and which is not. 
 - Main.html was given to us to be modified. Within main.html I have rewritten phong illumination to blinn phong, and added my own vertext and fragment shaders that I wrote from scratch. I also converted the ADS shader from vertex to fragment shader.
