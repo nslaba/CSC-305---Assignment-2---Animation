@@ -59,10 +59,10 @@ The small character giving the big character a colorful "black eye":
 _______________________________________________________________
 
 ## Functionality
--I focused on object oriented programming in order to reuse my characters and objects.
--The whole scene is rendered in render(timestamp) in main.js.
--Shader effects are done in main.html
--Blinn Phong illumination is used in main.html.
+- I focused on object oriented programming in order to reuse my characters and objects.
+- The whole scene is rendered in render(timestamp) in main.js.
+- Shader effects are done in main.html
+- Blinn Phong illumination is used in main.html.
 
 ## Desclamer
 - objects.js was given to us as template code and I have not modified it
